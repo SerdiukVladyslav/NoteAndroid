@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="fill_all_fields">Fill in all fields!</string>
+    <string name="note_added">Note added!</string>
+    <string name="notebook">Notebook</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note Content</string>
+    <string name="add_note">Add Note</string>
+    <string name="choose_language">Choose a language</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нотатки</string>
+    <string name="fill_all_fields">Заповніть всі поля!</string>
+    <string name="note_added">Нотатку додано!</string>
+    <string name="notebook">Блокнот</string>
+    <string name="note_title">Назва нотатки</string>
+    <string name="note_content">Текст нотатки</string>
+    <string name="add_note">Додати нотатку</string>
+    <string name="choose_language">Виберіть мову</string>
+    <string name="ukrainian">Українська</string>
+    <string name="english">Англійська</string>
+    <string name="russian">Російська</string>
+</resources>

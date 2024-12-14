@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="fill_all_fields">Заполните все поля!</string>
+    <string name="note_added">Заметка добавлена!</string>
+    <string name="notebook">Блокнот</string>
+    <string name="note_title">Название заметки</string>
+    <string name="note_content">Текст заметки</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="ukrainian">Украинский</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+</resources>
